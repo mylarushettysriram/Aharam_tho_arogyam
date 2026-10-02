@@ -1,0 +1,10 @@
+node_modules/
+.env
+backend/uploads/rice/*.jpg
+!backend/uploads/rice/basmati-1.jpg
+!backend/uploads/rice/sona-masoori-1.jpg
+!backend/uploads/rice/brown-rice-1.jpg
+!backend/uploads/rice/ponni-1.jpg
+!backend/uploads/rice/idly-rice-1.jpg
+!backend/uploads/rice/black-rice-1.jpg
+dist/
